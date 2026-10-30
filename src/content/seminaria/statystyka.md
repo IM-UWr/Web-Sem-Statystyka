@@ -6,6 +6,7 @@ prowadzacy:
 kontakt: "wylupek@math.uni.wroc.pl"
 zaklad: "statystyka"
 aktywne: true
+tresc_en: "The seminar is open to everyone interested."
 opublikowany: true
 ---
 
