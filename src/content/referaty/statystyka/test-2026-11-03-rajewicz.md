@@ -1,5 +1,5 @@
 ---
-tytul: "Conformal prediction for high-dimensional regression with missing covariates"
+tytul: "Testowe: Conformal prediction for high-dimensional regression with missing covariates"
 prelegent: "Tobiasz Rajewicz"
 afiliacja: "Politechnika Warszawska"
 termin: "2026-11-03T14:15"
