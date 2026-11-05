@@ -2,6 +2,7 @@
 tytul: "Testowe: Conformal prediction for high-dimensional regression with missing covariates"
 prelegent: "Mister Test"
 afiliacja: "Uniwersytet Test"
+afiliacja_en: "Test University"
 termin: "2026-11-03T14:15"
 sala: "603"
 opublikowany: true
