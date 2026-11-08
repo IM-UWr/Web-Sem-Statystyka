@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Testowe: Conformal prediction for high-dimensional regression with missing covariates"
 prelegent: "Mister Test"
 afiliacja: "Uniwersytet Test"

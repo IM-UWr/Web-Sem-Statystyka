@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Beyond Average Treatment Effects: Variable Importance for Treatment Effect Heterogeneity"
 prelegent: "Paweł Morzywołek"
 afiliacja: "Uniwersytet Kopenhaski"
