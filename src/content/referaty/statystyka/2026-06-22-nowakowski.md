@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "missKnockoffs: A Model-X Knockoff Framework for Variable Selection with Missing Data"
 prelegent: "Dominik Nowakowski"
 afiliacja: "Uniwersytet Medyczny w Białymstoku"

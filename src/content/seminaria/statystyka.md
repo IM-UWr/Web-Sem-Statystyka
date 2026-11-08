@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 nazwa: "Statystyka"
 nazwa_en: "Statistics"
 prowadzacy:
