@@ -1,8 +1,8 @@
 ---
 nazwa: "Statystyka"
 nazwa_en: "Statistics"
-prowadzacy:
-  - "Grzegorz Wyłupek"
+prowadzacy_ze_spisu:
+  - "_cms/pracownicy/grzegorz-wylupek.yml"
 kontakt: "wylupek@math.uni.wroc.pl"
 zaklad: "statystyka"
 aktywne: true
